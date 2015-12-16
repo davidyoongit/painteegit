@@ -1,0 +1,22 @@
+{
+  "name": "paintee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidyoongit/paintee.git"
+  },
+  "author": "david yoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidyoongit/paintee/issues"
+  },
+  "homepage": "https://github.com/davidyoongit/paintee#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
